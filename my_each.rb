@@ -1,5 +1,5 @@
 def my_each 
-  collection = [A, B, C, D, E]
+  collection = [A, B, C, D]
   my_each(collection) do |i| 
     puts i 
   end 
